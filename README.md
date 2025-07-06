@@ -3,7 +3,6 @@ Untuk halaman login
 ![Screenshot 2025-07-06 180353](https://github.com/user-attachments/assets/d7db60a4-611f-4111-94a8-3b4c8e79703a)
 Dashboard Asisten
 ![Screenshot 2025-07-06 182609](https://github.com/user-attachments/assets/dfe2163c-f1d2-4eef-bbca-09f52634aa58)
-![Screenshot 2025-07-06 173409](https://github.com/user-attachments/assets/13f8e3b7-8e0c-49f8-9336-4b27dfceae05)
 untuk tampilan Mata praktikum
 ![Screenshot 2025-07-06 173712](https://github.com/user-attachments/assets/ef2804d6-5c1b-4955-9fe0-8a8207c0e399)
 ![Screenshot 2025-07-06 173900](https://github.com/user-attachments/assets/0ca22d84-1691-4d73-8956-8708de23bb9e)
