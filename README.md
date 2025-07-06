@@ -34,9 +34,7 @@ Laporan Masuk
 
 ![Screenshot 2025-07-06 180107](https://github.com/user-attachments/assets/d835b78a-040e-4505-a31b-6727794bc1f6)
 
-![Screenshot 2025-07-06 180317](https://github.com/user-attachments/assets/d06a1c0f-6549-4cd4-a3d8-f0d960aee27f)
 
-![Screenshot 2025-07-06 180353](https://github.com/user-attachments/assets/3ac06bae-0e05-4b40-bb66-efc77bf538f5)
 DashBoard Mahasiswa
 ![Screenshot 2025-07-06 181121](https://github.com/user-attachments/assets/0a009464-c649-4749-acd3-1ee1bf99f91b)
 
